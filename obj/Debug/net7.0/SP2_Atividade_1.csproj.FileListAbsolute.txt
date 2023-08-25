@@ -1,0 +1,14 @@
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\bin\Debug\net7.0\SP2_Atividade_1.exe
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\bin\Debug\net7.0\SP2_Atividade_1.deps.json
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\bin\Debug\net7.0\SP2_Atividade_1.runtimeconfig.json
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\bin\Debug\net7.0\SP2_Atividade_1.dll
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\bin\Debug\net7.0\SP2_Atividade_1.pdb
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\obj\Debug\net7.0\SP2_Atividade_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\obj\Debug\net7.0\SP2_Atividade_1.AssemblyInfoInputs.cache
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\obj\Debug\net7.0\SP2_Atividade_1.AssemblyInfo.cs
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\obj\Debug\net7.0\SP2_Atividade_1.csproj.CoreCompileInputs.cache
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\obj\Debug\net7.0\SP2_Atividade_1.dll
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\obj\Debug\net7.0\refint\SP2_Atividade_1.dll
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\obj\Debug\net7.0\SP2_Atividade_1.pdb
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\obj\Debug\net7.0\SP2_Atividade_1.genruntimeconfig.cache
+C:\Users\luizf\OneDrive\Documentos\BackEnd\SP2_Atividade_1\obj\Debug\net7.0\ref\SP2_Atividade_1.dll
